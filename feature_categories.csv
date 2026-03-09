@@ -1,0 +1,96 @@
+Feature,Category
+Granulation_Time,Other
+Binder_Amount,Material
+Drying_Temp,Other
+Drying_Time,Other
+Machine_Speed,Mechanical
+Lubricant_Conc,Material
+Moisture_Content,Material
+Temperature_C_mean,Environmental
+Temperature_C_std,Environmental
+Temperature_C_max,Environmental
+Temperature_C_min,Environmental
+Temperature_C_range,Environmental
+Temperature_C_cv,Environmental
+Pressure_Bar_mean,Environmental
+Pressure_Bar_std,Environmental
+Pressure_Bar_max,Environmental
+Pressure_Bar_min,Environmental
+Pressure_Bar_range,Environmental
+Pressure_Bar_cv,Environmental
+Motor_Speed_RPM_mean,Mechanical
+Motor_Speed_RPM_std,Mechanical
+Motor_Speed_RPM_max,Mechanical
+Motor_Speed_RPM_min,Mechanical
+Motor_Speed_RPM_range,Mechanical
+Motor_Speed_RPM_cv,Mechanical
+Compression_Force_kN_mean,Mechanical
+Compression_Force_kN_std,Mechanical
+Compression_Force_kN_max,Mechanical
+Compression_Force_kN_min,Mechanical
+Compression_Force_kN_range,Mechanical
+Compression_Force_kN_cv,Mechanical
+Humidity_Percent_mean,Environmental
+Humidity_Percent_std,Environmental
+Humidity_Percent_max,Environmental
+Humidity_Percent_min,Environmental
+Humidity_Percent_range,Environmental
+Humidity_Percent_cv,Environmental
+Flow_Rate_LPM_mean,Mechanical
+Flow_Rate_LPM_std,Mechanical
+Flow_Rate_LPM_max,Mechanical
+Flow_Rate_LPM_min,Mechanical
+Flow_Rate_LPM_range,Mechanical
+Flow_Rate_LPM_cv,Mechanical
+Power_Consumption_kW_mean,Energy
+Power_Consumption_kW_std,Energy
+Power_Consumption_kW_max,Energy
+Power_Consumption_kW_min,Energy
+Power_Consumption_kW_range,Energy
+Power_Consumption_kW_cv,Energy
+Vibration_mm_s_mean,Asset Health
+Vibration_mm_s_std,Asset Health
+Vibration_mm_s_max,Asset Health
+Vibration_mm_s_min,Asset Health
+Vibration_mm_s_range,Asset Health
+Vibration_mm_s_cv,Asset Health
+Total_Energy_kWh,Energy
+Power_Variability,Energy
+Peak_Power,Energy
+Avg_Power,Energy
+Power_Efficiency,Energy
+Vibration_RMS,Asset Health
+Vibration_Peak,Asset Health
+Vibration_Stability,Asset Health
+Thermal_Stability,Asset Health
+Temp_Rate_Change,Other
+Compression_Consistency,Mechanical
+Avg_Compression,Mechanical
+Mechanical_Work,Other
+Pressure_Temp_Product,Environmental
+Speed_Flow_Ratio,Mechanical
+Energy_Per_Unit,Energy
+Specific_Power,Energy
+Power_Load_Factor,Energy
+Compression_Energy,Energy
+Energy_Intensity,Energy
+Asset_Health_Index,Asset Health
+Vibration_Power_Ratio,Energy
+Stability_Index,Asset Health
+Thermal_Efficiency,Energy
+Compression_Efficiency,Energy
+Flow_Efficiency,Energy
+Moisture_Temp_Interaction,Material
+Binder_Compression_Interaction,Mechanical
+Lubricant_Speed_Interaction,Mechanical
+Drying_Efficiency,Energy
+Heat_Input,Other
+Total_Process_Time,Other
+Time_Energy_Product,Energy
+Compression_Squared,Mechanical
+Temperature_Squared,Environmental
+Speed_Squared,Mechanical
+Power_Squared,Energy
+Compression_Pressure_Ratio,Environmental
+Speed_Power_Ratio,Energy
+Temp_Humidity_Ratio,Environmental
